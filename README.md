@@ -11,3 +11,5 @@
     后端走openai 的代理，域名是 test.lente.top (是一个在美国的服务器使用nginx 做的代理转发)
 
 # to do
+
+远程主分支最好为main/master分支
