@@ -13,3 +13,5 @@
 # to do
 
 远程主分支最好为main/master分支
+
+ljc add now
